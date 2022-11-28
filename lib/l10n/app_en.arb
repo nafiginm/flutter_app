@@ -1,0 +1,12 @@
+{
+  "homePage": "Home Page",
+  "authorizationForm": "Authorization form",
+  "login": "Login",
+  "requiredLogin": "Please enter login",
+  "password": "Password",
+  "requiredPassword": "Please enter password",
+  "requiredField": "Required field",
+  "signIn": "Sign in",
+  "settings": "Settings",
+  "changeLanguage": "Choose language"
+}

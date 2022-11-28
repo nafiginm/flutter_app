@@ -1,0 +1,12 @@
+{
+  "homePage": "Главная страница",
+  "authorizationForm": "Форма авторизации",
+  "login": "Логин",
+  "requiredLogin": "Пожалуйста, введите логин",
+  "password": "Пароль",
+  "requiredPassword": "Пожалуйста, введите пароль",
+  "requiredField": "Обязательное поле",
+  "signIn": "Войти",
+  "settings": "Настройки",
+  "changeLanguage": "Выберите язык"
+}

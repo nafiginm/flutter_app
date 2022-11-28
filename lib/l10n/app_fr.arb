@@ -1,0 +1,12 @@
+{
+  "homePage": "Page d'accueil",
+  "authorizationForm": "Formulaire d'autorisation",
+  "login": "Connexion",
+  "requiredLogin": "Veuillez entrer la connexion",
+  "password": "Mot de passe",
+  "requiredPassword": "Veuillez entrer le mot de passe",
+  "requiredField": "Champs requis",
+  "signIn": "S'identifier",
+  "settings": "Réglages",
+  "changeLanguage": "Choisissez la langue"
+}
