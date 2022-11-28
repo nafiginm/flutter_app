@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+![alt text](screenshots/home_page.jpg)
+
+![alt text](screenshots/auth_required.jpg)
+
+![alt text](screenshots/localization.jpg)
+
+![alt text](screenshots/settings_page.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
