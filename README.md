@@ -2,13 +2,13 @@
 
 A new Flutter project.
 
-![alt text](screenshots/home_page.jpg)
+![alt text](sreenshots/home_page.jpg)
 
-![alt text](screenshots/auth_required.jpg)
+![alt text](sreenshots/auth_required.jpg)
 
-![alt text](screenshots/localization.jpg)
+![alt text](sreenshots/localization.jpg)
 
-![alt text](screenshots/settings_page.jpg)
+![alt text](sreenshots/settings_page.jpg)
 
 ## Getting Started
 
